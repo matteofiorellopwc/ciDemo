@@ -6,6 +6,7 @@
         var boxIsShowing = 0;
         
         /***** Set Tab Title Below In Single Quotes *****/
+		 //sforce.console.getFocusedPrimaryTabId(function(result){
         //sforce.console.getFocusedPrimaryTabId(function(result){
         //  sforce.console.setTabTitle('Tour Agent Console', result.id);
         //});
