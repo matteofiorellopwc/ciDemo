@@ -18,5 +18,8 @@ public with sharing class CalcolaProvvigione {
     public Integer calculate6 (){
     	return 3;
     }
+      public Integer calculate7 (){
+    	return 3;
+    }
     
 }
