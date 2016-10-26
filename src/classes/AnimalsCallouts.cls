@@ -29,6 +29,7 @@ public class AnimalsCallouts {
         request.setBody('{"name":"mighty moose"}');
         HttpResponse response = http.send(request);
         // Parse the JSON response
+        // Parse the JSON response
         if (response.getStatusCode() != 201) {
             System.debug('The status code returned was not expected: ' +
                 response.getStatusCode() + ' ' + response.getStatus());
