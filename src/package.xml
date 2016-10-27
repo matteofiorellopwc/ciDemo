@@ -74,7 +74,6 @@
         <members>ContractContactRole</members>
         <members>ContractLineItem</members>
         <members>DuplicateRecordItem</members>
-        <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
         <members>Entitlement</members>
         <members>EntitlementContact</members>
@@ -84,7 +83,6 @@
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
         <members>Lead</members>
-        <members>LinkedArticle</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
